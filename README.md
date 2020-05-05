@@ -29,7 +29,7 @@ Since the ifixit link does not cover my laptop model, I covered my replacement i
 
 <img src="images/4_battery.jpg" alt="battery" style="zoom:50;" />
 
-**5th step - remove flats and connections **
+**5th step - remove flats and connections**
 
 <img src="images/5_flat.jpg" alt="disk" style="zoom:50;" />
 
@@ -43,7 +43,7 @@ Since the ifixit link does not cover my laptop model, I covered my replacement i
 
 
 
-**7th step - remove and clean mother board **
+**7th step - remove and clean mother board**
 
 <img src="images/10_motherboard.jpg" alt="motherboard" style="zoom:50;" />
 
